@@ -15,9 +15,9 @@ Una vez que lo has hecho, debes enviarlas como **_new Issue_** a este repositori
 Puedes ayudarte de esta imagen, contiene todas las ideas generadas en la sesión. Revísala y encuentra aquellas ideas que te hagan sentir pasión. 
 
 
-[Enlace a pizarrón en tamaño completo](https://github.com/ferenike/Imagination-Collaboration-Pitch/blob/main/IC.PNG).
+[Enlace a pizarrón en tamaño completo](https://github.com/MLSA-LATAM/Imagination-Collaboration-Pitch/blob/main/IC.PNG).
 
-![Lluvia de ideas para ayudar a los dueños de mascotas con tecnología](https://github.com/MLSA-LATAM/Imagination-Collaboration-Pitch/blob/main/IC.png)
+![Lluvia de ideas para ayudar a los dueños de mascotas con tecnología](https://github.com/MLSA-LATAM/Imagination-Collaboration-Pitch/blob/main/IC.PNG)
 
 
 ## Ideas de ejemplo
